@@ -1,0 +1,5 @@
+---Future Features---
+There's method we can apply to reduce the noise from IG
+
+---Notes---
+We should segment out the image for improved performance when tracking an object
